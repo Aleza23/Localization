@@ -1,18 +1,18 @@
 /* Preferences */
 
-"WATUSI_PREFERENCES_LABEL" = "Watusi 2 Preferences";
-"DEBUG_MENU" = "Debug Menu";
+"WATUSI_PREFERENCES_LABEL" = "Watusi 2 Preferensi";
+"DEBUG_MENU" = "Menu Debug";
 
 
 /* Privacy */
 
-"PRIVACY_LABEL" = "Privacy";
+"PRIVACY_LABEL" = "Privasi";
 
 "FREEZE_LASTSEEN_LABEL" = "Freeze Lastseen";
-"FREEZE_LASTSEEN_DESC" = "You will not be shown online and your last seen will not be updated when you open WhatsApp";
+"FREEZE_LASTSEEN_DESC" = "Anda tidak akan ditampilkan online dan tampilan terakhir Anda tidak akan diperbarui saat Anda membuka WhatsApp";
 
 "DISABLE_READ_RECEIPTS_LABEL" = "Disable Read Receipts";
-"READ_RECEIPTS_DESC" = "Disable read receipts but still see your contacts receipts. You can still enable/disable read receipts for specific contacts from force/never lists or by selecting it on their profile.";
+"READ_RECEIPTS_DESC" = "Nonaktifkan tanda terima telah dibaca tetapi masih melihat tanda terima kontak Anda.  Anda masih dapat mengaktifkan / menonaktifkan tanda terima telah dibaca untuk kontak tertentu dari daftar paksa / tidak pernah atau dengan memilihnya di profil mereka.";
 "NEVER_SEND_RECEIPTS_TO" = "Never Send Receipts to...";
 "FORCE_SEND_RECEIPTS_TO" = "Force Send Receipts to...";
 "FORCE_VOICE_MESSAGES_RECEIPTS" = "Force Send Voice Receipts";
